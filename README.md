@@ -1,8 +1,8 @@
-#analysis of challenge 2:
+# analysis of challenge 2:
 
-#Purpose of analysis: The purpose was to determine which stocks are more profitable by using the data of both 2017 and 2018. We were able to get results and see volume depending on tickers name. This information can later be used on deeper analysis. 
+# Purpose of analysis: The purpose was to determine which stocks are more profitable by using the data of both 2017 and 2018. We were able to get results and see volume depending on tickers name. This information can later be used on deeper analysis. 
 
-##Results: it appears that as refactoring this new code I was able to get a faster process time. Using the data there was one issue that bother me about the data and it was the fact that the input box if you added anything to it besides “2017” and “2018” it would take you to the macro for debugging. The following images show results from the module 1 and once I try to refracture it. So I had to create this code
+## Results: it appears that as refactoring this new code I was able to get a faster process time. Using the data there was one issue that bother me about the data and it was the fact that the input box if you added anything to it besides “2017” and “2018” it would take you to the macro for debugging. The following images show results from the module 1 and once I try to refracture it. So I had to create this code
 
 ‘On Error Resume Next-(placed right on top of inputbox)
 ‘On Error GoTo 0-(placed right before formatting code)
