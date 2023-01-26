@@ -1,4 +1,4 @@
-# analysis of challenge 2:
+# Stocks Analysis:
 
 # Purpose of analysis: The purpose was to determine which stocks are more profitable by using the data of both 2017 and 2018. We were able to get results and see volume depending on tickers name. This information can later be used on deeper analysis. 
 
